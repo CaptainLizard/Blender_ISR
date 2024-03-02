@@ -29,4 +29,5 @@ The Blender Incremental Save Addon provides a convenient way to save rendered im
 
 - Blender version: 2.80 and above.
 <img width="983" alt="preview" src="https://github.com/CaptainLizard/Blender_ISR/assets/59768905/807b0d65-5686-4f94-bb8c-7ae74966764e">
-![изображение](https://github.com/CaptainLizard/Blender_ISR/assets/59768905/4621331c-7d5e-4d2a-85e1-5e24bfec046a)
+
+<img width="143" alt="Preview2" src="https://github.com/CaptainLizard/Blender_ISR/assets/59768905/05a00c45-12fd-4bf0-b3e8-d279160c900f">
